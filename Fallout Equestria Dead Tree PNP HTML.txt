@@ -1,5 +1,6 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e30a648-7f68-4d6f-b6b3-6a6d342e9a43/d4yqgg9-d14c575a-0c8b-46b5-8386-72bc2fd803ef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlMzBhNjQ4LTdmNjgtNGQ2Zi1iNmIzLTZhNmQzNDJlOWE0M1wvZDR5cWdnOS1kMTRjNTc1YS0wYzhiLTQ2YjUtODM4Ni03MmJjMmZkODAzZWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vWh08yNhksixRJXTLWyLe2eZ6aOnR_W8waOTo5Oigho" width="98%" height="500">
-
+<div  class="Logo">
+    <img src="https://media.discordapp.net/attachments/1031730475456286721/1190355056726392912/LOGO.png?ex=65a17f89&is=658f0a89&hm=b78a44f539ad68b72e7b80676935f532daca22c29b753ae0bf186f56c9cf8cd3&=&format=webp&quality=lossless&width=962&height=468">
+</div>
 <div class="Remaining-Color-CSS">
     <div class="Exp-Tracker-CSS">
         <h2>EXP Tracker</h2>
@@ -42,12 +43,12 @@
     <input type="hidden" class="sheet-tabstoggle" name="attr_sheetTab"  value="character"  />
     
     <div class="Remaining-Color-CSS">
-        <button type="action" name="act_Core" >Core</button>
-        <button type="action" name="act_Combat" >Combat</button>
-        <button type="action" name="act_Magic" >Magic</button>
-        <button type="action" name="act_Inventory" >Inventory</button>
-        <button type="action" name="act_Perks" >Perks</button>
-        <button type="action" name="act_journal" >journal</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_Core" >Core</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_Combat" >Combat</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_Magic" >Magic</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_Inventory" >Inventory</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_Perks" >Perks</button>
+        <button class="Darkbox-Button-Tab-Select" type="action" name="act_journal" >journal</button>
     </div>
 
 
